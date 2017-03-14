@@ -1,0 +1,6 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/hellokoding/single-sign-on-out-auth-jwt-cookie-redis-springboot-freemarker
+[submodule "resources-service"]
+	path = resources-service
+	url = https://github.com/hellokoding/single-sign-on-out-resources-jwt-cookie-redis-springboot-freemarker
