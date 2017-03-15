@@ -20,4 +20,4 @@ https://hellokoding.com/scalable-authentication-single-sign-on-out-sso-example-w
 ## Run
 - Run [Authentication Service](https://github.com/hellokoding/single-sign-on-out-auth-jwt-cookie-redis-springboot-freemarker/tree/ab60b86cd2a951899483ff5c312d297ab90fc3de): `mvn spring-boot:run`
 - Run [Resource Service](https://github.com/hellokoding/single-sign-on-out-resources-jwt-cookie-redis-springboot-freemarker) 1: `mvn spring-boot:run -Dserver.port=8180`
-- Run Resource Service 2: `mvn spring-boot:run -Dserver.port=8280`
+- Run [Resource Service](https://github.com/hellokoding/single-sign-on-out-resources-jwt-cookie-redis-springboot-freemarker) 2: `mvn spring-boot:run -Dserver.port=8280`
